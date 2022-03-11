@@ -6,6 +6,7 @@ Desafio das aulas de [Flutter do Youtube.](https://youtu.be/9zkKGkFj3qg)
 
 - Proposto:
   ![desafio](assets/images/desafio.jpeg)
+- Realizado:
   ![done](assets/images/done.jpeg)
 
 ## Getting Started
